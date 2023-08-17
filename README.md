@@ -2,6 +2,8 @@
 
 Image Cropper is a simple Qt desktop application for cropping images. It allows you to load an image, crop it to a specific size, and save the cropped image to a file. It's a quick and convenient way to quickly prepare images for fine-tuning generative AI models with lora weights.
 
+![screenshot of the UI](img/example-1.jpg)
+
 ## Installation
 
 To install Image Cropper, follow these steps:
