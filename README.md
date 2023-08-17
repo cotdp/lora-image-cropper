@@ -17,7 +17,7 @@ To install Lora Image Cropper, follow these steps:
 To use Lora Image Cropper, follow these steps:
 
 1. Click the "Load Image" button to load an image.
-2. Use the mouse to rezie a rectangle over the area of the image you want to crop.
+2. Use the mouse to resize a rectangle over the area of the image you want to crop.
 3. Use the "Save Cropped Image" button to save the cropped image to a file.
 
 You can also select the size of the cropped image using the "Image Size" dropdown menu.
